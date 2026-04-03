@@ -2,7 +2,7 @@
 
 name: Shadow Ripping Tools
 
-on:
+on: 
   workflow_dispatch:
     inputs:
       code:
